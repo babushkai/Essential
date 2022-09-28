@@ -1,0 +1,1 @@
+1. Python for Data Analysis(Pandas) https://wesmckinney.com/book/
