@@ -8,6 +8,6 @@
 6. [Probability & Statistics](https://github.com/kwdaisuke/Essential/tree/main/Probability_Statistics)
 7. [ML Algorithm](https://github.com/kwdaisuke/Essential/tree/main/ML_Algorithm)
 8. Parallel computing
-9. REST API
+9. ![REST API](https://github.com/kwdaisuke/Essential/tree/main/REST_API0)
 10. [Kubernetes + Airflow](https://github.com/kwdaisuke/Essential/blob/main/Kubernetes_Airflow/README.md)
 11. [Unit/Integration tests](https://github.com/kwdaisuke/Essential/tree/main/Testing)
